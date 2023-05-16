@@ -17,10 +17,10 @@ Battleship Game is a strategy type guessing game for two players. It is played o
 
 ## Credit:
 
--**Vu Thi Ngoc Thao**
+**Vu Thi Ngoc Thao -- ITDSIU20**
 
--**Nguyen Hoai Thuong**
+**Nguyen Hoai Thuong -- ITDSIU20**
 
--**Huynh Xuan Vu**
+**Huynh Xuan Vu -- ITDSIU20103**
 
--**Huynh Tan Ho Duong**
+**Huynh Tan Ho Duong -- ITDSIU20**
